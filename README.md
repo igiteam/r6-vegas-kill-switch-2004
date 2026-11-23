@@ -14,9 +14,10 @@ A total conversion project that rebuilds the cover-based, third-person shooter K
 
 [![Kill.Switch - Gameplay PS2 HD 720P](https://img.youtube.com/vi/TyIXe1PM6gk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VHlJWGUxUE02Z2s)
 
+[![Unreal Engine 3 Tutorials](https://i.ytimg.com/vi/XpJs_hyEvPQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFWb0B0dfEO_vb9Fw7zmJzG)
+
 [![Kill Switch 2003](https://img.youtube.com/vi/WxkeGDbrY4Q/maxresdefault.jpg)](https://ytembed.macosxjs.com/?V3hrZUdEYnJZNFE)
 
-[![Unreal Engine 3 Tutorials](https://i.ytimg.com/vi/XpJs_hyEvPQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDArqtx6PTddNYEEC4xPveUT7Ng9A)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFWb0B0dfEO_vb9Fw7zmJzG)
 
 ---
 
